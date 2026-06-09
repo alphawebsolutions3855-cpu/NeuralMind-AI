@@ -1,0 +1,12 @@
+{
+  "name": "neuralmind-ai-frontend",
+  "version": "1.0.0",
+  "description": "NeuralMind-AI Web Interface",
+  "scripts": {
+    "start": "http-server -p 3000 -c-1",
+    "dev": "http-server -p 3000 -c-1"
+  },
+  "keywords": ["ai", "neural", "learning"],
+  "author": "alphawebsolutions3855-cpu",
+  "license": "MIT"
+}
